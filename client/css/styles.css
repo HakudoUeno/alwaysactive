@@ -1,2 +1,22 @@
+<<<<<<< HEAD
 body {
+=======
+#EventsContainer {
+  border: 1px solid red;
+}
+
+#SideBarContainer {
+  border: 1px solid blue;
+}
+
+#ContainerParent {
+  display: grid;
+  grid-template-columns: 1fr 2.25fr;
+  grid-gap: 20px;
+  margin-top: 20px;
+}
+
+#EventBox {
+  border: 1px solid green;
+>>>>>>> 19f7e4df52f4e16f41f0eebf4ba5f28d5f3fe820
 }
